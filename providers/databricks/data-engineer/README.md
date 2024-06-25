@@ -4,7 +4,7 @@ The learning plan can be found [here](https://customer-academy.databricks.com/le
 
 ## Progress
 
-- [ ] [Databricks Lakehouse Fundamentals](../databricks-lakehouse-fundamentals)
+- [x] [Databricks Lakehouse Fundamentals](../databricks-lakehouse-fundamentals)
 - [ ] [Data Engineering with Databricks](https://customer-academy.databricks.com/learn/course/1266/data-engineering-with-databricks)
 - [ ] [Preparing for Databricks Certification Exams](https://customer-academy.databricks.com/learn/course/2683/preparing-for-databricks-certification-exams)
 - [ ] [Databricks Certified Associate Data Engineer Exam](https://customer-academy.databricks.com/learn/course/820/exam-information-databricks-certified-associate-data-engineer-available-for-additional-fee)
