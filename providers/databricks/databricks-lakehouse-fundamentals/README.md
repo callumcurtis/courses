@@ -4,7 +4,7 @@ The learning plan can be found [here](https://customer-academy.databricks.com/le
 
 ## Progress
 
-- [x] [Databricks Fundamentals](https://customer-academy.databricks.com/learn/course/2206/databricks-fundamentals) (7/13)
+- [x] [Databricks Fundamentals](https://customer-academy.databricks.com/learn/course/2206/databricks-fundamentals)
 - [x] [Databricks Fundamentals Accreditation](https://customer-academy.databricks.com/learn/course/2308/databricks-fundamentals-accreditation)
 
 ## Notes
